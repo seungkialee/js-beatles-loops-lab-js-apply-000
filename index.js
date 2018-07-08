@@ -26,7 +26,7 @@ function iLoveTheBeatles(num) {
   do {
     newArray.push('I love the Beatles!')
     num++
-  }
+  } while (num >)
   
 }  
 // add solution here
