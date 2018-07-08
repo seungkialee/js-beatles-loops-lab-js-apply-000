@@ -22,6 +22,9 @@ function johnLennonFacts(string) {
 }
 
 function iLoveTheBeatles() {
+  var newArray = [];
+  var str = "I love the Beatles!"
   
+  newArray.push(str)
 }
 // add solution here
