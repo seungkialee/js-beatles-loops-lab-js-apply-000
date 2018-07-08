@@ -21,10 +21,11 @@ function johnLennonFacts(string) {
   return newArray;
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(parameter) {
   var newArray = [];
   var str = "I love the Beatles!"
-  
-  newArray.push(str)
+    if (parameter >= 7) {
+      newArray.push(str) * 8 
+    }
 }
 // add solution here
